@@ -8,7 +8,7 @@ My core expertise is **C#/.NET, distributed systems, event-driven architecture, 
 
 Remote from **Maringá, Paraná, Brazil**. Open to international remote collaboration in Portuguese and English.
 
-[LinkedIn](https://www.linkedin.com/in/marciolrg) · [Email](mailto:marcio_myst@hotmail.com) · [GitHub](https://github.com/marciomyst)
+[LinkedIn](https://www.linkedin.com/in/marciolrg) · [Email](mailto:marcio_myst@hotmail.com) · [GitHub](https://github.com/marcioluizrossatogomes)
 
 ## What I build
 
